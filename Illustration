@@ -1,0 +1,156 @@
+/*DIFFERENT ELEMENTS OF FOR THE ILLUSTRAION*/
+
+/*PLANT AND LEAFES*/ 
+    .leaf1 {
+          position: absolute; 
+          margin-top: 5px;
+          margin-bottom: 20px;
+          margin-left: 30px;
+          width: 20px;
+          height: 20px;
+          background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
+          border-radius: 50%;
+}
+
+    .leaf2 {
+          position: absolute;
+          margin-top: -50px;
+          margin-bottom: 0;
+          margin-left: 95px;
+          width: 30px;
+          height: 30px;
+          background:linear-gradient(90deg, #9ebd13 0%, #008552 99%);
+          border-radius: 50%;
+}
+
+    .leaf3 {
+          position: absolute; 
+          margin-top: 20px;
+          margin-bottom: 20px;
+          margin-left: 60px;
+          width: 30px;
+          height: 30px;
+          background: linear-gradient(90deg, #9ebd13 15%, #008552 99%);
+          border-radius: 50%;
+}
+
+    .leaf4 {
+          position: absolute;
+          margin-top: 15px;
+          margin-bottom: 0;
+          margin-left: 100px;
+          width: 20px;
+          height: 20px;
+          background-color: yellowgreen;
+          border-radius: 50%;
+}
+
+    .leaf5 {
+          position: absolute;
+          margin-top: 35px;
+          margin-bottom: 0;
+          margin-left: 89px;
+          width: 25px;
+          height: 25px;
+          background-color: yellowgreen;
+          border-radius: 50%;
+}
+
+    .leaf6 {
+          position: absolute;
+          margin-top: 0;
+          margin-bottom: 0;
+          margin-left: 80px;
+          width: 25px;
+          height: 25px;
+          background-color: yellowgreen;
+          border-radius: 50%;
+}
+
+    .leaf7 {
+          position: absolute;
+          margin-top: -25px;
+          margin-bottom: 0;
+          margin-left: 70px;
+          width: 25px;
+          height: 25px;
+          background-color: yellowgreen;
+          border-radius: 50%;
+}
+
+    .leaf8 {
+          position: absolute;
+          margin-top: -32px;
+          margin-bottom: 0;
+          margin-left: 45px;
+          width: 25px;
+          height: 25px;
+          background-color: yellowgreen;
+          border-radius: 50%;
+}
+
+    .leaf9 {
+          position: absolute;
+          margin-top: -60px;
+          margin-bottom: 0;
+          margin-left: 70px;
+          width: 30px;
+          height: 30px;
+          background-color: yellowgreen;
+          border-radius: 50%;
+}
+
+    .pot {    /*TOPF*/
+              margin-top: 75px;
+              width: 100px;
+              height: 100px;
+              background: linear-gradient(90deg, #e3ffe7 0%, lightgrey 100%);
+              border-radius: 25%;
+}
+
+/*NUMBER 
+        .number {
+         position:absolute;
+          margin-top: -120px;
+          margin-bottom: 50px;
+          margin-left:5px;
+          width: 10px;
+          height:130px;
+          background-color: orange;
+}
+*/
+
+
+/*BOOKS*/ 
+
+        .book1 {
+         transform: skew(10px,15px);
+          margin-top: -10px;
+          margin-bottom: 0;
+          margin-left: 25px;
+          width: 100px;
+          height: 20px;
+          background-color: deeppink;
+}
+
+        .book2 {
+          transform: skew(10px,15px);
+          margin-top: -10px;
+          margin-bottom: 0;
+          margin-left: 15px;
+          width: 200px;
+          height: 30px;
+          background-color: black;
+}
+
+        .book2 {
+            box-shadow: 10px 0px 3px -1px lightgrey;
+}
+
+/*text
+
+p {font-family: monospace;
+    font-size: xx-small;
+    margin-left: 10%;
+    }
+*/ 
